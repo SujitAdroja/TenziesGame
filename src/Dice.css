@@ -1,0 +1,14 @@
+.dice {
+  width: 50px;
+  height: 50px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 25%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.dice h2 {
+  font-size: 30px;
+  font-weight: 500;
+}
